@@ -1,6 +1,6 @@
 //@ts-check
 import { AddQuiz } from "./components/AddQuiz.js";
-import { ListData } from "./components/listData.js";
+import { ListData } from "./components/ListData.js";
 import { questions } from "./data/dataDirect.js";
 
 const renderPage=(quiz, list)=>{
